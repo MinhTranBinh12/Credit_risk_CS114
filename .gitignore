@@ -9,6 +9,8 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# File xuất tạm (PDF/HTML)
+# File xuất tạm & EDA nội bộ (không push lên GitHub)
+eda_report.md
 eda_report.pdf
 eda_report.html
+generate_eda_plots.py

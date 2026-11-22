@@ -107,7 +107,7 @@ Mỗi thành viên chỉ tạo và chỉnh sửa **đúng 1 file `.ipynb` và 1 
 ```powershell
 cd D:\DOAN-MAYHOC\credit-risk
 git status
-git add .gitignore README.md src/ credit_card_risk.ipynb eda_report.md generate_eda_plots.py images/
+git add .gitignore README.md requirements.txt src/ credit_card_risk.ipynb
 git commit -m "feat: migrate pipeline to Home Credit Default Risk with Top-1 FE and BRF+EasyEnsemble"
 git push origin main
 ```

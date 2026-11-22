@@ -1,0 +1,14 @@
+# Dữ liệu Kaggle lớn (>100MB, không push lên GitHub)
+data/*.csv
+data/*.zip
+
+# Môi trường ảo & cache Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# File xuất tạm (PDF/HTML)
+eda_report.pdf
+eda_report.html

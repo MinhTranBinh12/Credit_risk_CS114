@@ -1,0 +1,9 @@
+{
+  "model": "LightGBM (From Scratch)",
+  "balanced_accuracy": 0.7127408903439097,
+  "roc_auc": 0.779919943625218,
+  "high_risk_recall": 0.7114083145343216,
+  "high_risk_precision": 0.17931118511899927,
+  "high_risk_f1": 0.28642792266770467,
+  "overall_accuracy": 0.713858320976092
+}

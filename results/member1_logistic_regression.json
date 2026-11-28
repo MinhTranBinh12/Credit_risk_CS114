@@ -1,0 +1,9 @@
+{
+  "model": "Logistic Regression",
+  "balanced_accuracy": 0.6974943151518636,
+  "roc_auc": 0.7654893073454007,
+  "high_risk_recall": 0.690621978730261,
+  "high_risk_precision": 0.1702212160927757,
+  "high_risk_f1": 0.2731241038712761,
+  "overall_accuracy": 0.703257108665678
+}
